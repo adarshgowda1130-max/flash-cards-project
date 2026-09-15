@@ -47,6 +47,7 @@ def flip_card():
 
 flip_timer=window.after(3000, flip_card)
 window.after_cancel(flip_card)
+#jhggkkjgkjg
 
 french_text=canvas.create_text(400, 180, text="French", font=("Ariel", 40, "bold"))
 french_word=canvas.create_text(400,263,text="word", font=("Ariel", 40, "bold"))
